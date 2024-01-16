@@ -1,0 +1,7 @@
+img{
+  display: block;
+}
+.body{
+  display: flex;
+  justify-content: space-between;
+}

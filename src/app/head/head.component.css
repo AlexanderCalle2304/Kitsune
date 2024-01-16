@@ -1,0 +1,7 @@
+img{
+  display: block;
+}
+.head{
+  display: flex;
+  justify-content: space-between;
+}
